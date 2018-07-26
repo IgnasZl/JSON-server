@@ -12,23 +12,31 @@ app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 
 
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+});
 
-app.get('/news', (req, res)=>{
+app.get('/news', function(req, res, next) {
   res.json({
     news
-  })
+  });
+  next()
 });
 
-app.get('/teams', (req, res)=>{
+app.get('/clips', function(req, res, next) {
   res.json({
-    teams
-  })
+    news
+  });
+  next()
 });
 
-app.get('/clips', (req, res)=>{
+app.get('/teams', function(req, res, next) {
   res.json({
-    clips
-  })
+    news
+  });
+  next()
 });
 
 
