@@ -13,7 +13,7 @@ app.use(express.urlencoded({extended: true}));
 
 
 app.use(function(req, res, next) {
-  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Origin", "http://712075.s.dedikuoti.lt:5000/");
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   next();
 });
@@ -27,14 +27,14 @@ app.get('/news', function(req, res, next) {
 
 app.get('/clips', function(req, res, next) {
   res.json({
-    news
+    teams
   });
   next()
 });
 
 app.get('/teams', function(req, res, next) {
   res.json({
-    news
+    clips
   });
   next()
 });
