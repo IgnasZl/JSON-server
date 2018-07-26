@@ -1,0 +1,164 @@
+{
+    "news":[
+        {
+            "id":1,
+            "team":3,
+            "title":"Excepteur sint occaecat cupidatat non proident.",
+            "image":"1.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"11/15/2015",
+            "author":"Jeff Beck",
+            "tags":["Crvena Zvezda","Bjelica"]
+        },
+        {
+            "id":2,
+            "team":4,
+            "title":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut",
+            "image":"2.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"11/12/2017",
+            "author":"Stanley Berger",
+            "tags":["Baskonia","Shengelia"]
+        },
+        {
+            "id":3,
+            "team":3,
+            "title":"Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+            "image":"3.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"11/12/2013",
+            "author":"Jeff Beck",
+            "tags":["Khimki","Shved"]
+        },
+        {
+            "id":4,
+            "team":6,
+            "title":"Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image":"4.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"12/12/2017",
+            "author":"Jeff Beck",
+            "tags":["Real","Carroll"]
+        },
+        {
+            "id":5,
+            "team":8,
+            "title":"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
+            "image":"15.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"10/12/2018",
+            "author":"Stanley Berger",
+            "tags":["CSKA","Hines"]
+        },
+        {
+            "id":6,
+            "team":7,
+            "title":"Sed ut perspiciatis unde omnis iste natus error",
+            "image":"5.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"10/12/2018",
+            "author":"Stanley Berger",
+            "tags":["Maccabi","Tyus"]
+        },
+        {
+            "id":7,
+            "team":10,
+            "title":"Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+            "image":"16.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"10/12/2018",
+            "author":"Jeff Beck",
+            "tags":["Valencia","Dubljevic"]
+        },
+        {
+            "id":8,
+            "team":6,
+            "title":"Et quasi architecto beatae vitae dicta sunt explicabo",
+            "image":"6.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"03/12/2018",
+            "author":"Jeff Beck",
+            "tags":["Brose Bamberg","Melli"]
+        },
+        {
+            "id":9,
+            "team":14,
+            "title":"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
+            "image":"7.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"01/12/2018",
+            "author":"Jeff Beck",
+            "tags":["Panathinaikos","Calathes"]
+        },
+        {
+            "id":10,
+            "team":14,
+            "title":"Magni dolores eos qui ratione voluptatem sequi nesciunt.",
+            "image":"8.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Unicaja","Nedovic"]
+        },
+        {
+            "id":11,
+            "team":2,
+            "title":"Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+            "image":"9.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"10/12/2018",
+            "author":"Stanley Berger",
+            "tags":["Fenerbahce","Datome"]
+        },
+        {
+            "id":12,
+            "team":4,
+            "title":"Adipisci velit, sed quia non numquam eius modi tempora incidunt",
+            "image":"10.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"10/12/2018",
+            "author":"Jeff Beck",
+            "tags":["Barcelona Lassa","Tomic"]
+        },
+        {
+            "id":13,
+            "team":7,
+            "title":"Ut labore et dolore magnam aliquam quaerat voluptatem",
+            "image":"11.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"03/03/2018",
+            "author":"Stanley Berger",
+            "tags":["Zalgiris","Pangos"]
+        },
+        {
+            "id":14,
+            "team":9,
+            "title":"Ut enim ad minima veniam, quis nostrum exercitationem ullam",
+            "image":"12.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"02/02/2018",
+            "author":"Stanley Berger",
+            "tags":["Anadolu Efes","Dragic"]
+        },
+        {
+            "id":15,
+            "team":9,
+            "title":"Quis autem vel eum iure reprehenderit qui in ea voluptate velit",
+            "image":"13.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"10/29/2017",
+            "author":"Stanley Berger",
+            "tags":["AX Armani","Gudaitis"]
+        },
+        {
+            "id":16,
+            "team":1,
+            "title":"Esse quam nihil molestiae consequatur",
+            "image":"14.jpg",
+            "body":"2p 3p 3-point field goal attempts (available since the 1979-80 season in the nba) ast blocks (available since the 1973-74 season in the nba) field goal percentage; the formula is fg / fga. ft free throws ft% free throw percentage; the formula is ft / fta. free throw attempts four factors game score; the formula is pts + 0.4 * fg - 0.7 * fga - 0.4*(fta - ft) + 0.7 * orb + 0.3 * drb + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov. game score was created by john hollinger to give a rough measure of a player's productivity for a single game. the scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.). offensive rebounds (available since the 1973-74 season in the nba) orb% offensive rebound percentage (available since the 1970-71 season in the nba); the formula is 100 * (orb * (tm mp / 5)) / (mp * (tm orb + opp drb)).",
+            "date":"01/15/2014",
+            "author":"Jeff Beck",
+            "tags":["Olympiacos","Spanoulis"]
+        }
+    ]
+        }
